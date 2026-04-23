@@ -16,7 +16,7 @@ npx latencybreak <url>
 To install:
 
 ```bash 
-npm install latencyBreak
+npm install latency-break
 ```
 
 To run installed package:

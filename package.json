@@ -1,17 +1,25 @@
 {
   "name": "latency-break",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "CLI tool to analyze API latency and identify bottlenecks using timing headers",
   "bin": {
-    "latency-break": "./cli.js"
+    "latency-break": "cli.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "cli",
+    "latency",
+    "performance",
+    "api",
+    "debugging",
+    "observability"
+  ],
+  "author": "vishsec",
+  "license": "MIT",
   "type": "commonjs",
-  "dependencies": {}
+  "dependencies": {},
+  "files": [
+    "cli.js",
+    "README.md",
+    "LICENSE"
+  ]
 }
